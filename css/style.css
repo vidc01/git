@@ -1,25 +1,21 @@
-main{
-    margin: 5px;
-    background-color: rgb(244, 244, 244);
-
-}
-
-.paragraphe{
-    color: rgb(255, 0, 0);
+.paragraphe {
+    color: white;
     font-size: 20px;
-    text-align: left;
+    text-align: center;
 }
-
-.footer{
+.footer {
     margin-top: 10px;
     background-color: darkslategray;
     color: white;
     text-align: center;
     padding: 10px;
 }
-
-.nav{
+main {
+    margin: 5px;
+    background-color: lightseagreen;
+}
+.nav {
     background-color: darkcyan;
     padding: 10px;
-    text-align: left;
+    text-align: center;
 }
