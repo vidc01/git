@@ -1,0 +1,19 @@
+main{
+    margin: 5px;
+    background-color: lightseagreen;
+
+}
+
+.paragraphe{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.footer{
+    margin-top: 10px;
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
